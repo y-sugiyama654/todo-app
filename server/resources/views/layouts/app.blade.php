@@ -15,6 +15,9 @@
         <li class="nav-item">
             <a class="nav-link" href="/todos">Todos</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/new-todos">Create Todos</a>
+        </li>
     </ul>
     <div class="container">
         @yield('content')
